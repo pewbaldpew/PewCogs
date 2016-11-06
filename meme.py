@@ -23,7 +23,7 @@ class botmeme:
         await self.bot.say("""```
 This is the memeing command. \n 
     The command is triggered by the trigger word [M e m e] 
-    When the trigger word is said I will choose a memer and 
+    When the trigger word is said I will choose a photo and 
     post it for everyone to see. \n
 This command is still in the very alpha stage - Dom```""")
     
