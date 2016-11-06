@@ -25,7 +25,8 @@ This is the memeing command. \n
     The command is triggered by the trigger word [M e m e] 
     When the trigger word is said I will choose a photo and 
     post it for everyone to see. \n
-This command is still in the very alpha stage - Dom```""")
+This command is still in the very alpha stage. Check my github for updates. \n
+https://github.com/pewbaldpew - Pew```""")
     
     async def automeme(self, message):
         user = message.author
