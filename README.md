@@ -1,5 +1,5 @@
 # PewCogs
-Some cogs for the Red DiscordBot
+Some fun and quirky cogs for the Red DiscordBot
 
 These cogs were made by me for the Red DiscordBot. You can find it here.
 
