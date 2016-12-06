@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Pew",
+    "INSTALL_MSG" : "Thank you for installing my cog! I hope you enjoy it!",
+    "NAME" : "Compliment",
+    "SHORT" : "Compliment users in your discord server!",
+    "DESCRIPTION" : "This cog is used to compliment people in your discord server. Once you use the command, your bot will choose a random user and compliment them. Over 40+ compliments are preloaded, feel free to add more!"
+}

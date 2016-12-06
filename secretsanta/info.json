@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Pew",
+    "INSTALL_MSG" : "Thank you for installing my cog! I hope you enjoy it!",
+    "NAME" : "SecretSanta",
+    "SHORT" : "Get in the Holiday spirit with this Secret Santa cog!",
+    "DESCRIPTION" : "The Secret Santa cog is used to have a secret santa inside your discord server! Users are stored in a sent/receive json file so there are no repeats, therefore everyone will have their own unique secret santa!"
+}
