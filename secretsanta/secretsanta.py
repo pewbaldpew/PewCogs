@@ -6,7 +6,7 @@ import random
 from .utils.dataIO import fileIO
 
 class SecretSanta:
-    """My custom cog that does stuff!"""
+    """Have a Secret Santa in your discord server!"""
 
     def __init__(self, bot):
         self.bot = bot
