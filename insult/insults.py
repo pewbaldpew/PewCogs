@@ -5,7 +5,7 @@ from discord.ext import commands
 
 
 class Insult:
-    """My custom cog that does stuff!"""
+    """Insult your friends!"""
 
     def __init__(self, bot):
         self.bot = bot
@@ -17,7 +17,7 @@ class Insult:
         await asyncio.sleep(1)
         a = ["You smell like pickles tbh.", "I bet your dick doesnt touch the toilet water.",
              "You look like this guy. https://gyazo.com/bd8f5888138bb91683ee1bad64a3195b", "Your girl looks like this https://gyazo.com/e461c557bc2884ce41a164dcfe0e780b", "If I had a dollar for every time I wanted you to die I would be a millioniare.", "You wouldn't even be friends with steve erkel you mother fucker you.",
-              "Aj has a better chance at getting a girl than you do.", "Is your ass jealous of the amount of shit that just came out of your mouth?", "I'm not saying I hate you, but I would unplug your life support to charge my phone.", "Your birth certificate is an apology letter from the condom factory.",
+              "Is your ass jealous of the amount of shit that just came out of your mouth?", "I'm not saying I hate you, but I would unplug your life support to charge my phone.", "Your birth certificate is an apology letter from the condom factory.",
               "I bet your brain feels as good as new, seeing that you never use it.", "You must have been born on a highway because that's where most accidents happen.", "What’s the difference between you and eggs? Eggs get laid and you don't.", "I could eat a bowl of alphabet soup and shit out a smarter statement than that.", "You're so ugly you scare the shit back into people.",
               "Your family tree must be a cactus because everybody on it is a prick.", "You're so ugly, when you popped out the doctor said Aww what a treasure and your mom said Yeah, lets bury it.", "I don't exactly hate you, but if you were on fire and I had water, I'd drink it.", "Maybe if you ate some of that makeup you could be pretty on the inside.",
               "Shut up, you'll never be the man your mother is.", "If you really want to know about mistakes, you should ask your parents.", "Roses are red violets are blue, God made me pretty, what happened to you?", "Hey, you have somthing on your chin... no, the 3rd one down", "You're the reason the gene pool needs a lifeguard.", "You have two brains cells, one is lost and the other is out looking for it.",
