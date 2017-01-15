@@ -11,8 +11,7 @@ class Reposearch:
     async def reposearch(self, ctx, *, repo: str=None):
         """You can use this command to search through the existing repos.
         This command will list all
-        the existing cogs in each repo. This was all hard
-        coded so I will try my best to keep it up to date. - Pew
+        the existing cogs in each repo.
         Do keep in mind these are case sensitive.\n
         Available repos: 26-Cogs, Squid-Plugins, Dumb-Cogs,
         Booru-Cogs, Jumper-Cogs, Mash-Cogs, PaddoCogs,
