@@ -53,7 +53,8 @@ class Reposearch:
             await self.bot.say("https://github.com/Lunar-Dust/Dusty-Cogs \n Available Cogs: \n Autorole - Automatically adds a role to users who join your server. \n Desutils - Various utilities for debugging/server management. \n Greet - Plays a sound effect when a user joins a voice channel. \n Menu - A menu system based on reactions. \n Moji - Send a custom emoji from any server the bot is in. \n Pathfinder - Various features related to DnD/Pathfinder.")
         elif "tmerc-Cogs" in repo:
             await self.bot.say("https://github.com/tmercswims/tmerc-cogs \n Available Cogs: \n Catfact - Get random cat facts. \n Customjoinleave - Set a sound to play when a user joins a voice channel. \n Kz - Get kz stats \n Massdm - Send a direct message to all members of the specified Role. \n Memebership - Announces membership events. \n Playsound - Join, play a sound, and leave. \n Quotes - Store quotes, and get random ones. \n Randgame - Random games for your bot. \n Randimage - Displays a random image from a directory. \n Randimals - Displays random images of some animals. \n Reviewemoji - Submit and review emoji. \n Survey - Run surveys.")
-            
+        elif "Scarlet-Cogs" in repo:
+            await self.bot.say("https://github.com/ScarletRav3n/Scarlet-Cogs \n Available Cogs: \n Fun - Random fun commands. \n Grammar - Corrects grammar mistakes. \n Kaomoji - Random Japanese emojis! \n Pepe - Random pepes")
             
 def setup(bot):
     bot.add_cog(Reposearch(bot))
