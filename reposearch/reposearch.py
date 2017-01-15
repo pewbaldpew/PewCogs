@@ -17,7 +17,8 @@ class Reposearch:
         Available repos: 26-Cogs, Squid-Plugins, Dumb-Cogs,
         Booru-Cogs, Jumper-Cogs, Mash-Cogs, PaddoCogs,
         CalebJ-Cogs, Refactored-Cogs, Eslyium-Cogs, Maybe-Useful-Cogs,
-        Ax-Cogs, Palmtree5-Cogs, Ritsu-Cogs, Dusty-Cogs, tmerc-Cogs"""
+        Ax-Cogs, Palmtree5-Cogs, Ritsu-Cogs, Dusty-Cogs, tmerc-Cogs,
+        Scarlet-Cogs"""
         
         repo = ctx.message.content
         
