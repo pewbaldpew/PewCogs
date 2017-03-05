@@ -164,7 +164,7 @@ class Quirky:
 "Your house is so dirty you have to wipe your feet before you go outside.",
 "I thought of you all day today. I was at the zoo.",
 "I heard you took an IQ test and they said you're results were negative.",
-"You're not exactly bad looking. There's just one little problem between your ears - your face!",
+"You're not exactly bad looking. There's just one little problem between your ears - your face",
 "Are you always an idiot, or just when I'm around?",
 "I've seen people like you, but I had to pay admission!",
 "Brains aren't everything. In your case they're nothing.",
